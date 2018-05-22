@@ -87,32 +87,14 @@ xxx | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 --- | - | - | - | - | - | - | - | - | - | -- | -- | -- |
 A | Std1 | S1 | S9 | S17 | S25 | S33 | S41 | S49 | S57 | S65 | S73 | Std1 |
 B | Std2 | S2 | S10 | S18 | S26 | S34 | S42 | S50 | S58 | S66 | S74 | Std2 |
+C | Std3 | S3 | S11 | S19 | S27 | S35 | S43 | S51 | S59 | S67 | S75 | Std3 |
+D | Std4 | S4 | S12 | S20 | S28 | S36 | S44 | S52 | S60 | S68 | S76 | Std4 |
+E | Std5 | S5 | S13 | S21 | S29 | S37 | S45 | S53 | S61 | S69 | S77 | Std5 |
+F | Std6 | S6 | S14 | S22 | S30 | S38 | S46 | S54 | S62 | S70 | S78 | Std6 |
+G | Std7 | S7 | S15 | S23 | S31 | S39 | S47 | S55 | S63 | S71 | S79 | Std7 |
+H | Std8 | S8 | S16 | S24 | S32 | S40 | S48 | S56 | S64 | S72 | S80 | Std8 |
 
-C Std3
-S
-3 S11 S19 S27 S35 S43 S51 S59 S67 S75 Std3
-
-D Std4
-S
-4 S12 S20 S28 S36 S44 S52 S60 S68 S76 Std4
-
-E Std5
-S
-5 S13 S21 S29 S37 S45 S53 S61 S69 S77 Std5
-
-ORGANIC CARBON MICROPLATE ANALYSIS
-
-F Std6
-S
-6 S14 S22 S30 S38 S46 S54 S62 S70 S78 Std6
-
-G Std7
-S
-7 S15 S23 S31 S39 S47 S55 S63 S71 S79 Std7
-
-H Std8
-S
-8 S16 S24 S32 S40 S48 S56 S64 S72 S80 Std8
+## ORGANIC CARBON MICROPLATE ANALYSIS
 
 1. In a clear plate, add 100 µL of each of the oxalic acid standards in rows 1 and 2.
 2. Add 100 µL of each sample into the microplate wells in three replicate plates so that there are 3
