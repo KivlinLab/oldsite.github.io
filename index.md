@@ -2,13 +2,22 @@
 # Research
 The Kivlin Lab researchs drivers of microbial taxonomic and functional distributions in plants and soils and how microbial communities influence ecosystem-level processing of carbon and nutrients.
 
+## Current Projects
+### MAPS: Mycorrhizal Atlas of Predicted Species Niches
+Species distribution models are powerful tools for predicting the distributions of "macro"organisms but have scarcely been applied to microbial taxa. MAPS is the first database to collect SDMs for microbial taxa at the global scale.
+
 
 # People
 ## Stephanie Kivlin
+PI
+
+Microbial and Ecosystem Ecology
+
 ## Jessica Moore
 Postdoctoral Researcher
 
 Microbial and Ecosystem Ecology
+
 ## Leigh Moorhead
 Postdoctoral Researcher
 
