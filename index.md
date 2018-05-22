@@ -39,7 +39,7 @@ Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Context-depen
 
 **Kivlin, S.N.**, R.A. Bedoya, and C.V. Hawkes. Heterogeneity in arbuscular mycorrhizal fungal communities may contribute to inconsistent plant-soil feedback in Neotropical rainforests.
 
-Sulman, B.N., J.A.M. Moore, R. Abramoff, C. Averill, **S.N. Kivlin**, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. Multiple models and experiments underscore large uncertainty in soil carbon dynamics.
+Sulman, B.N., **J.A.M. Moore**, R. Abramoff, C. Averill, **S.N. Kivlin**, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. Multiple models and experiments underscore large uncertainty in soil carbon dynamics.
 
 Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L. Menge, and X. Zhang. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage.
 
