@@ -119,3 +119,5 @@ values into concentrations.
 5. To convert to mg C g -1 of soil, multiply mM-C from the microplate assay by the volume of
 extractant solution (K 2 SO 4 ) in liters, multiply by 12mgC/mmolC, and divide by g dry soil.
 6. A calculation template can be found in the file TOC_microplate_calculation_template.xlsx
+
+#### Adapted from protocol by CV Hawkes
