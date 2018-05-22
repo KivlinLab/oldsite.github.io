@@ -35,7 +35,7 @@ Disturbance Ecology
 
 **Kivlin, S.N.**, M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains.
 
-Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Improved model structure and multi-species interactions in niche models to address ecological hypotheses.
+Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Context-dependent biotic interactions control plant abundance across steep environmental gradients.
 
 **Kivlin, S.N.**, R.A. Bedoya, and C.V. Hawkes. Heterogeneity in arbuscular mycorrhizal fungal communities may contribute to inconsistent plant-soil feedback in Neotropical rainforests.
 
