@@ -31,7 +31,7 @@ Disturbance Ecology
 
 # Publications
 
-Manuscripts in review
+## Manuscripts in review
 
 Kivlin, S.N., M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains. Microbial Ecology
 
@@ -47,7 +47,7 @@ Kivlin, S.N., I. Billick, and J.A Rudgers, Plant-fungal symbiosis in alpine gras
 
 Kivlin, S.N. and J.A. Rudgers. Direct and indirect influences of warming on plant fungal endophytes: a physiological and compositional approach.
 
-Published Manuscripts
+## Published Manuscripts
 
 (21) Lekberg, Y., J.D. Bever, R.A. Bunn, R.M. Calaway, M.M. Hart, S.N. Kivlin, J.N. Klironomos, B.G. Larkin, J.L. Maron, K.O. Reinhart, M. Remke, and W.H. van der Putten. 2018. Relative importance of competition and plant soil feedbacks, their context dependency and implications for coexistence. Ecology Letters
 
