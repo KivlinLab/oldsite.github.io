@@ -7,9 +7,11 @@ The Kivlin Lab researchs drivers of microbial taxonomic and functional distribut
 ## Stephanie Kivlin
 ## Jessica Moore
 Postdoctoral Researcher
+
 Microbial and Ecosystem Ecology
 ## Leigh Moorhead
 Postdoctoral Researcher
+
 Disturbance Ecology
 
 
