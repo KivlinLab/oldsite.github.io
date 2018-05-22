@@ -2,11 +2,17 @@
 
 ## Materials, Equipment, Reagents
 95% ethanol
+
 0.5% NaOCl (bleach)
+
 70% ethanol
+
 Sterile DI water
+
 Clean paper towels
+
 Sterilized plastic containers to hold each solution
+
 Vials
 
 ## Procedure
