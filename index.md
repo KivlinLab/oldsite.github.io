@@ -1,4 +1,3 @@
-<body>
   
 # Research
 The Kivlin Lab researchs drivers of microbial taxonomic and functional distributions in plants and soils and how microbial communities influence ecosystem-level processing of carbon and nutrients.
@@ -96,4 +95,4 @@ Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L
 Book Chapters
 
 (1) **Kivlin, S.N.**, R. Muscarella, C.V. Hawkes, and K.K. Treseder. 2017. The predictive power of ecological niche models for global arbuscular mycorrhizal fungal biogeography. In L. Tedersoo (Ed.) Biogeography of Mycorrhizal Symbiosis. Springer-Verlag.
-</body>
+
