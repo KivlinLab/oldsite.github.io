@@ -47,6 +47,7 @@ Create a diluted 4mM-C solution: put 2mL of the 200 mM stock solution in 98mL na
 ## ORGANIC CARBON MICROPLATE ANALYSIS
 
 Create the following standards:
+
 Standard | mM | mL oxalic acid diluted stock (10mM) to add | mL of nanopure water
 -------- | -- | ------------------------------------------ | --------------------
 1 | 4 | 30 mL of diluted stock | 0 ml
@@ -79,9 +80,10 @@ method, so make sure not to use samples extracted with KCl (e.g. Nmin samples). 
 (e.g. microbial biomass) work fine.
 4. To make calculations easier using the template, make sure that all samples within a microplate
 will be corrected using the same value for blanks.
+
 Load plate according to the example below:
 
-    | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+xxx | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 --- | - | - | - | - | - | - | - | - | - | -- | -- | -- |
 A | Std1 | S1 | S9 | S17 | S25 | S33 | S41 | S49 | S57 | S65 | S73 | Std1 |
 B | Std2 | S2 | S10 | S18 | S26 | S34 | S42 | S50 | S58 | S66 | S74 | Std2 |
