@@ -32,7 +32,7 @@ Collect roots in field, keep cold until ready to sterilize.
 
 (7) Divide roots by cutting on sterilized surface
 
-(8) To store roots for later root staining, add a portion of the roots to vials filled with ethanol or
+(8) To store roots for later root staining, add a portion of the roots to 15-20ml vials filled with 80% ethanol or
 isopropyl alcohol. For transport, vials should be sealed then wrapped with parafilm with both the vial
 and the cap labeled.
 
