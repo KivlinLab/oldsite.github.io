@@ -32,7 +32,7 @@ precipitate will form. Read microplate at 630 nm after 30 min.
 Standard curves: Dilute the 50 ppm stock solution to 1 ppm in a 1.5 ml centrifuge tube (30 μl stock:1470
 μl matrix). Create the following standard curve in 1.5 ml centrifuge tubes.
 Concen| μl 1 ppm | μl matrix
-------|----------|----------
+----- | -------- | ---------
 0 ppm| 0 | 1000
 0.02| 20 | 980
 0.05| 50 | 950
