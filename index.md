@@ -1,6 +1,6 @@
   
 # Research
-The Kivlin Lab researchs drivers of microbial taxonomic and functional distributions in plants and soils and how microbial communities influence ecosystem-level processing of carbon and nutrients.
+The Kivlin Lab researchs (1) drivers of microbial taxonomic and functional distributions in plants and soils and (2) the influence of microbial communities on ecosystem-level processing of carbon and nutrients.
 
 ## Current Projects
 ### MAPS: Mycorrhizal Atlas of Predicted Species Niches
