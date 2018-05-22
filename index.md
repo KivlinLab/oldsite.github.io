@@ -6,6 +6,11 @@ The Kivlin Lab researchs drivers of microbial taxonomic and functional distribut
 ### MAPS: Mycorrhizal Atlas of Predicted Species Niches
 Species distribution models are powerful tools for predicting the distributions of "macro"organisms but have scarcely been applied to microbial taxa. MAPS is the first database to collect SDMs for microbial taxa at the global scale.
 
+### Global Change: Utilizing Long-term manipulations & Environmental gradients
+Global change is affecting microbial composition and function, but observing these effects in real time will preclude advancement of global change ecology. Instead, our lab observes global change in real time by utilizing long-term warming experiments and elevational gradients, which are a space-for-time substituion for climate change. This work is centered at The Rocky Mountain Biological Laboratory (RMBL) in Crested Butte, CO. We have characterized plant-associated microbial communities and are currently researching ecosystem-level effects of shifts in microbial composition through field-based reciprocal transplants.
+
+### Fire at the Wildland-Urban Interface
+Climate change and urbanization are increasing the prevalence of wildfires. However, little is known about how soil microbial communities and associated ecosystem function will recover from these combined disturbance pressures. Our research takes place in the Smoky Mountains near Knoxville, TN.
 
 # People
 ## Stephanie Kivlin
