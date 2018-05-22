@@ -14,17 +14,17 @@ Climate change and urbanization are increasing the prevalence of wildfires. Howe
 
 # People
 ## Stephanie Kivlin
-PI
+### PI
 
 Microbial and Ecosystem Ecology
 
 ## Jessica Moore
-Postdoctoral Researcher
+### Postdoctoral Researcher
 
 Microbial and Ecosystem Ecology
 
 ## Leigh Moorhead
-Postdoctoral Researcher
+### Postdoctoral Researcher
 
 Disturbance Ecology
 
