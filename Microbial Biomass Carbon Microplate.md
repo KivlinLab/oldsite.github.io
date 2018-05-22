@@ -1,6 +1,6 @@
 # Kivlin Lab Organic Carbon Microplate Analysis
-####Revised 05.22.2018 by Stephanie Kivlin
-####Adapted from Bartlett and Ross, 1988
+#### Revised 05.22.2018 by Stephanie Kivlin
+#### Adapted from Bartlett and Ross, 1988
 
 (Bartlett, R.J. and D.S. Ross. 1988. Colorimetric determination of oxidizable carbon in acid soil solutions. Soil Sci. Soc. Am. J. 52:1191-1192)
 
