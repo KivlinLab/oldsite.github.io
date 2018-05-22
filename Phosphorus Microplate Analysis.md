@@ -1,6 +1,6 @@
-# Inorganic phosphorus analysis
+# Inorganic phosphorus microplate analysis
 
-## Based on:
+#### Based on:
 Lajtha, K., C. T. Driscoll, W. M. Jarrell, and E. T. Elliott. 1999. Soil phosphorus: characterization and
 total element analysis. Pages 115-142 in G. P. Robertson, D. C. Coleman, C. S. Bledsoe, and P. Sollins,
 editors. Standard Soil Methods for Long-Term Ecological Research. Oxford University Press, New York.
@@ -31,7 +31,7 @@ precipitate will form. Read microplate at 630 nm after 30 min.
 
 Standard curves: Dilute the 50 ppm stock solution to 1 ppm in a 1.5 ml centrifuge tube (30 μl stock:1470
 μl matrix). Create the following standard curve in 1.5 ml centrifuge tubes.
-Concen| μl 1 ppm | μl matrix
+Concentration | μl 1 ppm | μl matrix
 ----- | -------- | ---------
 0 ppm| 0 | 1000
 0.02| 20 | 980
