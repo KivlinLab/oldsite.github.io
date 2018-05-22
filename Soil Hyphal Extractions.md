@@ -42,19 +42,28 @@ omitting the top and right-hand gridlines (to avoid double counting in the final
 
 ### Calculations
 Hyphal length (H) is calculated from the length of hyphae observed per sample (L), the total area examined per slide (A), the catchment area of the filter (C), and the soil sample size (S), and the dilution factor (if the sample was diluted during extraction).
+
 L = (sum of all counts per filter) x (11/14) x (size of a small grid square in mm at 200x)
+
 A = (sum of all squares counted/100) x (the size of one side of the 10x10 grid in mm at 200x)2 C = π x (filter radius in mm)2
+
 S = g dry mass soil added to the extraction
+
 H (mm hyphae per filter) = (L x C / A)
+
 Calculate H for each filter, then sum the two filters to get mm/slide.
+
 Then convert to mm hyphae per g dry soil:
 H (mm hyphae per g dry soil) = (L x C/A) x (initial solution volume in ml/ sample volume in ml)/ S
 Where S (in grams) is calculated as:
 S = wet soil sample weight – (wet soil sample weight * Ѳ)
+
 Gravimetric soil moisture (Ѳ) is calculated as follows, with all weights in grams:
+
 Ѳ = [(weight of wet soil + tin) – (weight of dry soil + tin)] / [(weight of dry soil + tin) – tin weight]
+
 If a dilution was used, be sure to incorporate the dilution factor into the final calculation of sample volume.
-Note that for our Zeiss microscope, the magnification is 160x rather than 200x (10x eyepiece, 16x objective). At 160x on the Zeiss, one full side of the grid square is 0.505mm and the size of of side of a small grid square is 0.0505mm. These numbers change between microscopes, so always check with a stage micrometer.
+Note that for our microscope, the magnification is 200x (10x eyepiece, 20x objective). At 200x on the microscope, one full side of the grid square is 0.505mm and the size of of side of a small grid square is 0.0505mm. These numbers change between microscopes, so always check with a stage micrometer.
 ### References
 Brundrett M, Melville L, Peterson L. 1994. Practical methods in mycorrhiza research. Mycologue publications. Guelph, Ontario, Canada.
 Sylvia DM. 1992. Quantification of external hyphae of vesicular-arbuscular mycorrhizal fungi. Methods in Microbiology 24: 53-65.
