@@ -3,13 +3,12 @@ Loss on Ignition Method
 
 Hailin Zhang, Tony Provin and Jim Wang
 
-
- ##Application and Principle
+## Application and Principle
 
 This method determines the organic matter by oxidation at an elevated temperature in a muffle furnace and measuring the weight loss.  The heating temperature is critical to record an accurate weight loss due to organic matter oxidation because the weight loss can be affected by loss of hydroscopic water in gypsum if the initial temperature is not high enough and calcium carbonate in the soil if the final temperature is too high.  The initial temperature was modified to 150C to minimize the gypsum effect (Combs and Nathan, 1998; Schulte and Hopkins, 1996), while the final temperature was set at 360C to avoid CaCO3 loss. This method is a good alternative to the Walkley-Black method which generates hazardous waste and the dry combustion method which may get interference from the presence of inorganic carbonates and structural water in the soil.
 
 
-Equipment and Apparatus
+## Equipment and Apparatus
 
 1.	Analytical balance: 100g capacity, resolution ±0.001g
 
@@ -19,7 +18,7 @@ Equipment and Apparatus
 
 
 
-Procedure
+## Procedure
 
 1.	Number metal tins 
 
@@ -41,12 +40,12 @@ Procedure
 Note; be consistent when weighing samples after they are removed from the oven or furnace either warm or cooled from desiccator.
 
 
-Calculations
+## Calculations
 
 1.	 OM% = [(W2-W3)/(W2-W1)] x 100
 
 
-Analytical Performance
+## Analytical Performance
 
 1.	The estimation of organic matter (OM) by loss on ignition (LOI) is generally done by regression between LOI and wet chemistry method such as the Walkley-Black method. The OM regression slope between LOI and the Walkley-Black method ranged from 0.66 to 1.04 and intercept ranged from 0.04 to -0.36 at 360oC combusting temperature (Combs and Nathan, 1998). Other combusting temperatures, such as 400, 450, 500, and 600oC, have been reported (Nelson and Sommers, 1996; David, 1988; Storer, 1984; Goldin, 1987). They were generally correlated with but different from the standard wet chemical method. Therefore, the accuracy of LOI may not be as good as the wet chemistry method. The method is considered reproducible within ±20% (Gavlak, R. et al., 2003).
 
@@ -55,7 +54,7 @@ Analytical Performance
 3.	Calcium carbonate should be included as a method check. If the weight loss of calcium carbonate is > 0.05%, the temperature calibration of the muffle furnace should be checked.
 
 
-References
+#### References
 
 Combs, S.M., and M.V. Nathan. 1998. Soil organic matter. In Recommended chemical soil test procedures for the North Central Region. Missouri Agricultural Experiment Station SB 1001.
 
