@@ -23,6 +23,9 @@ Microbial and Ecosystem Ecology
 ## Jessica Moore
 ### Postdoctoral Researcher
 
+<img src = "https://pbs.twimg.com/profile_images/791986472920485889/oTlqnS0a_400x400.jpg">
+
+
 Microbial and Ecosystem Ecology
 
 ## Leigh Moorhead
