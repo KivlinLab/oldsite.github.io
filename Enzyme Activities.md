@@ -79,6 +79,7 @@ Using multichannel pipettors, Add the following amounts (µl) of sodium acetate 
 
 
 Next add the following amounts of milliQ water to the MUB standard wells:
+
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 -- | - | - | - | - | - | - | - | - | -- | -- | -- |
 x | x | x | x | x | x | x | x | 0 | 0 | x | x |		
