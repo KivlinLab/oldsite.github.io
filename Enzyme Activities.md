@@ -16,14 +16,17 @@
 1.1 ml glacial acetic acid (add more to make pH = 5)
 1 L sterile DI water (miliQ water)
 
-## Substrate solutions (1000 µM unless otherwise noted):
+## Substrate solutions
 Enzyme | Substrate |
 ------ | --------- |
-Cellobiohydrolase (CBH)	| 4-MUB-β-D-cellobioside (in refrigerator) 12.5 mg/50 mL 500 µM
-β-Glucosidase (BG)	| 4-Methylumbelliferyl β-D-glucopyranoside 16.9 mg/50 mL 1000 µM
-Alpha-Glucosidase (AG)	| 4-Methylumbelliferyl Alpha-D-glucopyranoside 16.9 mg/50 mL 1000 µM
-N-acetyl-β-D-glucosaminidase (NAG)	| 4-Methylumbelliferyl N-acetyl-β-D-glucosaminide 38 mg/50 mL 2000 µM
-MUB standard	| 4-Methylumbelliferone 0.89 mg/50 ml 100 µM
+Cellobiohydrolase (CBH)	| 4-MUB-β-D-cellobioside (in refrigerator) (12.5 mg/50 mL 500 µM)
+β-Glucosidase (BG)	| 4-Methylumbelliferyl β-D-glucopyranoside (16.9 mg/50 mL 1000 µM)
+Alpha-Glucosidase (AG)	| 4-Methylumbelliferyl Alpha-D-glucopyranoside (16.9 mg/50 mL 1000 µM)
+N-acetyl-β-D-glucosaminidase (NAG)	| 4-Methylumbelliferyl N-acetyl-β-D-glucosaminide (38 mg/50 mL 2000 µM)
+β-xylosidase (BX)	| 4-Methylumbelliferyl β-D-xylopyranoside (15.4 mg/50 mL 1000 µM)
+Acid phosphatase (AP)	4-Methylumbelliferyl Phosphate (51.2 mg/50 mL 4000 µM)
+MUB standard	| 4-Methylumbelliferone (0.89 mg/50 ml 100 µM)
+
 
 Make substrate and fluorescent standard solutions in 125 mL red glass bottles using milliQ water. Store solutions in the 4°C refrigerator. Substrates are in freezer unless noted. Remake solutions every week, and make them one day BEFORE you want to start working, as this affects the measured activity levels. MUB standard should be diluted to 25 µM before use, depending on expected sample fluorescence.  MUB is made by heating the solution to 90°C for a few minutes, with constant stirring (don’t let it boil).
 
@@ -45,8 +48,8 @@ Obtain microcosm (fresh or frozen).  Add 30 mL of sodium acetate buffer, swirl, 
 
 ## Assay Set-up
 All assay plates should be arranged as follows:
-1    |2     |3    |4  |5  |6  | 7 |8  |9  |10 |11 |12 |
----- | ---- | --- | - | - | - | - | - | - | - | - | - |
+1    | 2    | 3   | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+---- | ---- | --- | - | - | - | - | - | - | -- | -- | -- |
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 5 |	MUB 5 |	Hombl |	Buf |
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 2.5	|MUB 2.5	|Hombl	|Buf
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 1.25	|MUB 1.25	|Hombl	|Buf
