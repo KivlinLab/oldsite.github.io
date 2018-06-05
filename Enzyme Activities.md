@@ -1,8 +1,8 @@
-#Fluorimetric and Oxidative Enzyme Assay Protocol for Soils: CBH, BG, AG, and NAG
+# Fluorimetric and Oxidative Enzyme Assay Protocol for Soils: CBH, BG, AG, and NAG
 
 (Modified from Saiya-Cork, K. R., R. L. Sinsabaugh, and D. R. Zak. 2002. The effects of long term nitrogen deposition on extracellular enzyme activity in an Acer saccharum forest soil. Soil Biology & Biochemistry 34:1309-1315.)
 
-##Reagents:
+## Reagents:
 
 1.0 M NaOH
 
@@ -16,25 +16,22 @@
 1.1 ml glacial acetic acid (add more to make pH = 5)
 1 L sterile DI water (miliQ water)
 
-##Substrate solutions (1000 µM unless otherwise noted):
-Enzyme	Substrate
-Cellobiohydrolase (CBH)	4-MUB--D-cellobioside (in refrigerator)
-12.5 mg/50 mL 500 M
-β-Glucosidase (BG)	4-Methylumbelliferyl β-D-glucopyranoside
-16.9 mg/50 mL 1000 M
--Glucosidase (AG)	4-Methylumbelliferyl -D-glucopyranoside
-16.9 mg/50 mL 1000 M
-N-acetyl--D-glucosaminidase (NAG)	4-Methylumbelliferyl N-acetyl-β-D-glucosaminide
-38 mg/50 mL 2000 M
-MUB standard	4-Methylumbelliferone
-0.89 mg/50 ml 100 µM
-Make substrate and fluorescent standard solutions in 125 mL red glass bottles using milliQ water. Store solutions in the 4°C refrigerator. Substrates are in freezer unless noted. Remake solutions every week, and make them one day BEFORE you want to start working, as this affects the measured activity levels.  MUB standard should be diluted to 25 µM before use, depending on expected sample fluorescence.  MUB is made by heating the solution to 90°C for a few minutes, with constant stirring (don’t let it boil).
+## Substrate solutions (1000 µM unless otherwise noted):
+Enzyme | Substrate |
+------ | --------- |
+Cellobiohydrolase (CBH)	| 4-MUB-β-D-cellobioside (in refrigerator) 12.5 mg/50 mL 500 µM
+β-Glucosidase (BG)	| 4-Methylumbelliferyl β-D-glucopyranoside 16.9 mg/50 mL 1000 µM
+Alpha-Glucosidase (AG)	| 4-Methylumbelliferyl Alpha-D-glucopyranoside 16.9 mg/50 mL 1000 µM
+N-acetyl-β-D-glucosaminidase (NAG)	| 4-Methylumbelliferyl N-acetyl-β-D-glucosaminide 38 mg/50 mL 2000 µM
+MUB standard	| 4-Methylumbelliferone 0.89 mg/50 ml 100 µM
 
-Two additional enzymes, -xylosidase (BX), and acid phosphatase (AP) can be assayed on a separate plate with leucine aminopeptidase (see the LAP protocol).  BX requires the substrate 4-Methylumbelliferyl β-D-xylopyranoside, which is made at the concentration of 1000 M (15.4 mg/50 mL), and AP requires the substrate 4-Methylumbelliferyl phosphate, which is made at a concentration of 4000 M (51.2 mg/50 mL).  If the BX, AP, and LAP plate is run at the same time as the CBH, BG, AG, and NAG plate, then an additional MUB standard is not necessary.
+Make substrate and fluorescent standard solutions in 125 mL red glass bottles using milliQ water. Store solutions in the 4°C refrigerator. Substrates are in freezer unless noted. Remake solutions every week, and make them one day BEFORE you want to start working, as this affects the measured activity levels. MUB standard should be diluted to 25 µM before use, depending on expected sample fluorescence.  MUB is made by heating the solution to 90°C for a few minutes, with constant stirring (don’t let it boil).
+
+Two additional enzymes, β-xylosidase (BX), and acid phosphatase (AP) can be assayed on a separate plate.  BX requires the substrate 4-Methylumbelliferyl β-D-xylopyranoside, which is made at the concentration of 1000 µM (15.4 mg/50 mL), and AP requires the substrate 4-Methylumbelliferyl phosphate, which is made at a concentration of 4000 µM (51.2 mg/50 mL).  If the BX, AP plate is run at the same time as the CBH, BG, AG, and NAG plate, then an additional MUB standard is not necessary.
 
 Label black plates with sample names.  For example, Microcosm 1 (0.01% starch)
 
-Sample Preparation: Soils
+## Sample Preparation: Soils
 If the dry weight of the sample is unknown, obtain fresh soil or litter samples and split each into two parts.
 
 Weigh one part, record mass, place in tared coin envelope or soil tin and dry at 105°C to constant weight (24 hours).  Record dry mass.
@@ -43,20 +40,21 @@ Weigh other part (1-2 g wet weight), record mass, and place in labeled 500 ml co
 
 Rinse blender with DI water between samples.
 
-Sample Preparation: Microcosms
+## Sample Preparation: Microcosms
 Obtain microcosm (fresh or frozen).  Add 30 mL of sodium acetate buffer, swirl, and pour into 500 mL container.  Add another 30 mL to microcosm, swirl, and pour into same 500 mL container.  Make sure there is no sand left in microcosm (swirl well!).
 
-Assay Set-up
+## Assay Set-up
 All assay plates should be arranged as follows:
-1	2	3	4	5	6	7	8	9	10	11	12
-CBHbl	BGbl	AGbl	NAGbl	CBH	BG	AG	NAG	MUB5	MUB5	Hombl	Buf
-CBHbl	BGbl	AGbl	NAGbl	CBH	BG	AG	NAG	MUB2.5	MUB2.5	Hombl	Buf
-CBHbl	BGbl	AGbl	NAGbl	CBH	BG	AG	NAG	MUB1.25	MUB1.25	Hombl	Buf
-CBHbl	BGbl	AGbl	NAGbl	CBH	BG	AG	NAG	MUB0.63	MUB0.63	Hombl	Buf
-CBHbl	BGbl	AGbl	NAGbl	CBH	BG	AG	NAG	MUB0.31	MUB0.31	Hombl	Buf
-CBHbl	BGbl	AGbl	NAGbl	CBH	BG	AG	NAG	MUB0.16	MUB0.16	Hombl	Buf
-CBHbl	BGbl	AGbl	NAGbl	CBH	BG	AG	NAG	MUB0.07	MUB0.07	Hombl	Buf
-CBHbl	BGbl	AGbl	NAGbl	CBH	BG	AG	NAG	MUB0.04	MUB0.04	Hombl	Buf
+1    |2     |3    |4  |5  |6  | 7 |8  |9  |10 |11 |12 |
+---- | ---- | --- | - | - | - | - | - | - | - | - | - |
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 5 |	MUB 5 |	Hombl |	Buf |
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 2.5	|MUB 2.5	|Hombl	|Buf
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 1.25	|MUB 1.25	|Hombl	|Buf
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.63	|MUB 0.63	|Hombl	|Buf
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.31	|MUB 0.31	|Hombl	|Buf
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.16	|MUB 0.16	|Hombl	|Buf
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.07	|MUB 0.07	|Hombl	|Buf
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.04	|MUB 0.04	|Hombl	|Buf
 
 There are three types of blanks performed in these assays: A substrate blank, labeled with “bl” following the enzyme name, a homogenate blank, labeled as “Hombl”, and a plate blank, labeled as “Buf”. (Jump to page 3)
 
