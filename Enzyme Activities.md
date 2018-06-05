@@ -93,17 +93,17 @@ x | x | x | x | x | x | x | x | 49.5 | 49.5 | x | x |
 
 Next, add the following amounts of 25 mM MUB to the MUB standard wells:
 
-
-
-1	2	3	4	5	6	7	8	9	10	11	12
-								50	50		
-								25	25		
-								12.5	12.5		
-								6.2	6.2		
-								3.1	3.1		
-								1.6	1.6		
-								0.8	0.8		
-								0.5	0.5		
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+x | x | x | x | x | x | x | x | 50 | 50 | x | x |		
+x | x | x | x | x | x | x | x | 25 | 25 | x | x |		
+x | x | x | x | x | x | x | x | 12.5 | 12.5 | x | x |		
+x | x | x | x | x | x | x | x | 6.2 | 6.2 | x | x |		
+x | x | x | x | x | x | x | x | 3.1  | 3.1  | x | x |		
+x | x | x | x | x | x | x | x | 1.6 | 1.6 | x | x |		
+x | x | x | x | x | x | x | x | 0.8 | 0.8 | x | x |		
+x | x | x | x | x | x | x | x | 0.5 | 0.5 | x | x |
+		
 
 Next, add the substrates to the corresponding wells (see plate 1 on page 2):
 1	2	3	4	5	6	7	8	9	10	11	12
