@@ -121,16 +121,17 @@ Next, add the substrates to the corresponding wells (see plate 1 on page 2):
 
 Using the multi-channel pipette with wide-mouth tips (i.e., trimmed with scissors), add the homogenate to all wells receiving homogenate:
  
- 
-1	2	3	4	5	6	7	8	9	10	11	12
-				200	200	200	200	200	200	200	
-				200	200	200	200	200	200	200	
-				200	200	200	200	200	200	200	
-				200	200	200	200	200	200	200	
-				200	200	200	200	200	200	200	
-				200	200	200	200	200	200	200	
-				200	200	200	200	200	200	200	
-				200	200	200	200	200	200	200	
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
+x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
+x	|x	|x 	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
+x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
+x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
+x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
+x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
+x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x 
+	
 
 All wells should now contain 250 µl.  Place plates in incubator at proper temperature for soils (e.g., 10°C for Alaskan soils).  Incubate for one hour.
 
