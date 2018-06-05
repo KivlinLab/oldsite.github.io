@@ -1,4 +1,4 @@
-# Fluorimetric and Oxidative Enzyme Assay Protocol for Soils: CBH, BG, AG, and NAG
+# Fluorimetric and Oxidative Enzyme Assay Protocol for Soils: CBH, BG, AG, NAG, BX, and AP
 
 (Modified from Saiya-Cork, K. R., R. L. Sinsabaugh, and D. R. Zak. 2002. The effects of long term nitrogen deposition on extracellular enzyme activity in an Acer saccharum forest soil. Soil Biology & Biochemistry 34:1309-1315.)
 
