@@ -135,26 +135,30 @@ x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
 
 All wells should now contain 250 µl.  Place plates in incubator at proper temperature for soils (e.g., 10°C for Alaskan soils).  Incubate for one hour.
 
-Assay Termination
+## Assay Termination
+
 After one hour of incubation, add 10 µL of 1 M NaOH to each well, noting time. Note: this is not done in advance. Add the NaOH to the plates and wait 10 min, then read the plates.  This is important.  Give the NaOH time to interact with the MUB.  MUB will only fluoresce in alkaline conditions.  
 
-Reading Plates
+## Reading Plates
+
 Read fluorescence plates at 365 nm excitation and 450 nm emission. 
 
-Standard Curve Construction
-It is important to calculate the standard curve for the MUB based on the MUB standard wells (wells 9-10).  First, obtain the “homogenate blank” value by averaging the values in column 11.  Then, take the MUB standard values, average them for each MUB concentration, and subtract the homogenate blank from the fluorescence values for each concentration.  Construct a standard curve using linear regression (MUB concentration on the x-axis, and Fluorescence on the y-axis) to obtain the slope.  Make sure this is calculated with the MUB concentrations in mols/L (which is synonymous with nmols/mL).  The slope is your Extinction Coeeficient ().  To calculate the “quench”, simply construct a second standard curve (in a separate plate) that receives buffer and no homogenate.  This “unquenched” curve gives the true fluorescence of MUB.  The ratio of the slope of the standard curve containing soils to the standard curve containing buffer tells you how much the soil quenches the fluorescence of the MUB.  
+## Standard Curve Construction
+
+It is important to calculate the standard curve for the MUB based on the MUB standard wells (wells 9-10).  First, obtain the “homogenate blank” value by averaging the values in column 11.  Then, take the MUB standard values, average them for each MUB concentration, and subtract the homogenate blank from the fluorescence values for each concentration.  Construct a standard curve using linear regression (MUB concentration on the x-axis, and Fluorescence on the y-axis) to obtain the slope.  Make sure this is calculated with the MUB concentrations in mols/L (which is synonymous with nmols/mL).  The slope is your Extinction Coeeficient (E).  To calculate the “quench”, simply construct a second standard curve (in a separate plate) that receives buffer and no homogenate.  This “unquenched” curve gives the true fluorescence of MUB.  The ratio of the slope of the standard curve containing soils to the standard curve containing buffer tells you how much the soil quenches the fluorescence of the MUB.  
 
 
 
 
 
-Fluorescence Activity
-Activity (nmol h-1 g-1) = {NFU / (/0.250 mL)}1 hour X (1/DF) X 0.200 mL) 
+## Fluorescence Activity
+
+Activity (nmol h-1 g-1) = {NFU / (E/0.250 mL)}/ (1 hour X (1/DF) X 0.200 mL) 
 
 NFU = net fluorescence units = Assay Fluorescence – Homogenate Blank – Substrate Blank*quench conversion
 
 Quench conversion = slope of MUB standard with soil/slope of MUB standard with buffer
- = extinction coefficient
+E = extinction coefficient
 Assay volume = 0.250 mL
 Homogenate volume = 0.200 mL
 Dilution factor = Volume buffer (mL)/ mass of soil or microcosm (g)
