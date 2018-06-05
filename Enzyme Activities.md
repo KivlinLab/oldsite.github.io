@@ -79,16 +79,16 @@ Using multichannel pipettors, Add the following amounts (µl) of sodium acetate 
 
 
 Next add the following amounts of milliQ water to the MUB standard wells:
-
-1	2	3	4	5	6	7	8	9	10	11	12
-								0	0		
-								25	25		
-								37.5	37.5		
-								43.8	43.8		
-								46.9	46.9		
-								48.4	48.4		
-								49.2	49.2		
-								49.5	49.5		
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+x | x | x | x | x | x | x | x | 0 | 0 | x | x |		
+x | x | x | x | x | x | x | x | 25 | 25 | x | x |		
+x | x | x | x | x | x | x | x | 37.5 | 37.5 | x | x |		
+x | x | x | x | x | x | x | x | 43.8 | 43.8 | x | x |		
+x | x | x | x | x | x | x | x | 0 | 0 | 46.9 | 46.9 |		
+x | x | x | x | x | x | x | x | 0 | 0 | 48.4 | 48.4 |		
+x | x | x | x | x | x | x | x | 0 | 0 | 49.2 | 49.2 |		
+x | x | x | x | x | x | x | x | 0 | 0 | 49.5 | 49.5 |		
 
 Next, add the following amounts of 25 mM MUB to the MUB standard wells:
 
