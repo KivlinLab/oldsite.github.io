@@ -64,21 +64,18 @@ There are three types of blanks performed in these assays: A substrate blank, la
 
 
 
-
-
-
-
 Using multichannel pipettors, Add the following amounts (µl) of sodium acetate buffer to the corresponding wells:
 
-1	2	3	4	5	6	7	8	9	10	11	12
-200	200	200	200							50	250
-200	200	200	200							50	250
-200	200	200	200							50	250
-200	200	200	200							50	250
-200	200	200	200							50	250
-200	200	200	200							50	250
-200	200	200	200							50	250
-200	200	200	200							50	250
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+200	|200	|200	|200 | x | x | x |  x |	 x |  x |			|50	|250
+200	|200	|200	|200							|50	|250
+200	|200	|200 	|200							|50	|250
+200	|200	|200	|200							|50	|250
+200	|200	|200	|200							|50	|250
+200	|200	|200	|200							|50	|250
+200	|200	|200	|200							|50	|250
+200	|200	|200	|200							|50	|250
 
 
 Next add the following amounts of milliQ water to the MUB standard wells:
