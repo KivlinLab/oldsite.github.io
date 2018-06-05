@@ -24,7 +24,7 @@ Cellobiohydrolase (CBH)	| 4-MUB-β-D-cellobioside (in refrigerator) (12.5 mg/50 
 Alpha-Glucosidase (AG)	| 4-Methylumbelliferyl Alpha-D-glucopyranoside (16.9 mg/50 mL 1000 µM)
 N-acetyl-β-D-glucosaminidase (NAG)	| 4-Methylumbelliferyl N-acetyl-β-D-glucosaminide (38 mg/50 mL 2000 µM)
 β-xylosidase (BX)	| 4-Methylumbelliferyl β-D-xylopyranoside (15.4 mg/50 mL 1000 µM)
-Acid phosphatase (AP)	4-Methylumbelliferyl Phosphate (51.2 mg/50 mL 4000 µM)
+Acid phosphatase (AP)	| 4-Methylumbelliferyl Phosphate (51.2 mg/50 mL 4000 µM)
 MUB standard	| 4-Methylumbelliferone (0.89 mg/50 ml 100 µM)
 
 
@@ -48,8 +48,9 @@ Obtain microcosm (fresh or frozen).  Add 30 mL of sodium acetate buffer, swirl, 
 
 ## Assay Set-up
 All assay plates should be arranged as follows:
-1    | 2    | 3   | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
----- | ---- | --- | - | - | - | - | - | - | -- | -- | -- |
+
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+- | - | - | - | - | - | - | - | - | -- | -- | -- |
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 5 |	MUB 5 |	Hombl |	Buf |
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 2.5	|MUB 2.5	|Hombl	|Buf
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 1.25	|MUB 1.25	|Hombl	|Buf
