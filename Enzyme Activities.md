@@ -49,6 +49,8 @@ Obtain microcosm (fresh or frozen).  Add 30 mL of sodium acetate buffer, swirl, 
 ## Assay Set-up
 All assay plates should be arranged as follows:
 
+Plate 1
+
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 -- | - | - | - | - | - | - | - | - | -- | -- | -- |
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 5 |	MUB 5 |	Hombl |	Buf |
@@ -60,11 +62,26 @@ CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.16	|MUB 0.16	|Hombl	|Buf
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.07	|MUB 0.07	|Hombl	|Buf
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.04	|MUB 0.04	|Hombl	|Buf
 
+Plate 2
+
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+BXbl | APbl | BX | AP | x | x | x | x | x | x | x | x |		
+BXbl | APbl | BX | AP | x | x | x | x | x | x | x | x |		
+BXbl | APbl | BX | AP | x | x | x | x | x | x | x | x |		
+BXbl | APbl | BX | AP | x | x | x | x | x | x | x | x |		
+BXbl | APbl | BX | AP | x | x | x | x | x | x | x | x |		
+BXbl | APbl | BX | AP | x | x | x | x | x | x | x | x |		
+BXbl | APbl | BX | AP | x | x | x | x | x | x | x | x |		
+BXbl | APbl | BX | AP | x | x | x | x | x | x | x | x |
+
 There are three types of blanks performed in these assays: A substrate blank, labeled with “bl” following the enzyme name, a homogenate blank, labeled as “Hombl”, and a plate blank, labeled as “Buf”. (Jump to page 3)
 
 
 
 Using multichannel pipettors, Add the following amounts (µl) of sodium acetate buffer to the corresponding wells:
+
+Plate 1
 
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 -- | - | - | - | - | - | - | - | - | -- | -- | -- |
@@ -77,8 +94,23 @@ Using multichannel pipettors, Add the following amounts (µl) of sodium acetate 
 200	|200	|200	|200 | x | x | x | x | x | x |50 |250
 200	|200	|200	|200 | x | x | x | x | x | x |50 |250
 
+Plate 2
+
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+200	|200	|x	|x | x | x | x | x | x | x |x |x
+200	|200	|x	|x | x | x | x | x | x | x |x |x
+200	|200	|x	|x | x | x | x | x | x | x |x |x
+200	|200	|x	|x | x | x | x | x | x | x |x |x
+200	|200	|x	|x | x | x | x | x | x | x |x |x
+200	|200	|x	|x | x | x | x | x | x | x |x |x
+200	|200	|x	|x | x | x | x | x | x | x |x |x
+200	|200	|x	|x | x | x | x | x | x | x |x |x
+
 
 Next add the following amounts of milliQ water to the MUB standard wells:
+
+Plate 1 only
 
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 -- | - | - | - | - | - | - | - | - | -- | -- | -- |
@@ -92,6 +124,8 @@ x | x | x | x | x | x | x | x | 49.2 | 49.2 | x | x |
 x | x | x | x | x | x | x | x | 49.5 | 49.5 | x | x |		
 
 Next, add the following amounts of 25 mM MUB to the MUB standard wells:
+
+Plate 1 only
 
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 -- | - | - | - | - | - | - | - | - | -- | -- | -- |
@@ -107,6 +141,8 @@ x | x | x | x | x | x | x | x | 0.5 | 0.5 | x | x |
 
 Next, add the substrates to the corresponding wells (see plate 1 on page 2):
 
+Plate 1 
+
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 -- | - | - | - | - | - | - | - | - | -- | -- | -- |
 50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
@@ -118,9 +154,23 @@ Next, add the substrates to the corresponding wells (see plate 1 on page 2):
 50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
 50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
 				
+Plate 2
+
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+50	|50	|50	|50 | x | x | x | x | x | x |x |x
+50	|50	|50	|50 | x | x | x | x | x | x |x |x
+50	|50	|50	|50 | x | x | x | x | x | x |x |x
+50	|50	|50	|50 | x | x | x | x | x | x |x |x
+50	|50	|50	|50 | x | x | x | x | x | x |x |x
+50	|50	|50	|50 | x | x | x | x | x | x |x |x
+50	|50	|50	|50 | x | x | x | x | x | x |x |x
+50	|50	|50	|50 | x | x | x | x | x | x |x |x
 
 Using the multi-channel pipette with wide-mouth tips (i.e., trimmed with scissors), add the homogenate to all wells receiving homogenate:
- 
+
+Plate 1
+
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
 -- | - | - | - | - | - | - | - | - | -- | -- | -- |
 x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
@@ -132,6 +182,18 @@ x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
 x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x
 x	|x	|x	|x | 200 | 200 | 200 | 200 |200 |200 |200 |x 
 	
+Plate 2
+
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+x	|x	|200	|200 | x | x | x | x | x | x |x |x
+x	|x	|200	|200 | x | x | x | x | x | x |x |x
+x	|x	|200	|200 | x | x | x | x | x | x |x |x
+x	|x	|200	|200 | x | x | x | x | x | x |x |x
+x	|x	|200	|200 | x | x | x | x | x | x |x |x
+x	|x	|200	|200 | x | x | x | x | x | x |x |x
+x	|x	|200	|200 | x | x | x | x | x | x |x |x
+x	|x	|200	|200 | x | x | x | x | x | x |x |x
 
 All wells should now contain 250 µl.  Place plates in incubator at proper temperature for soils (e.g., 10°C for Alaskan soils).  Incubate for one hour.
 
