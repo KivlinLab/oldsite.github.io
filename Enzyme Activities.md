@@ -50,9 +50,9 @@ Obtain microcosm (fresh or frozen).  Add 30 mL of sodium acetate buffer, swirl, 
 All assay plates should be arranged as follows:
 
 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 5 |	MUB 5 |	Hombl |	Buf |
-CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 2.5	|MUB 2.5	|Hombl	|Buf
+CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 2.5	| MUB 2.5	|Hombl	|Buf
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 1.25	|MUB 1.25	|Hombl	|Buf
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.63	|MUB 0.63	|Hombl	|Buf
 CBHbl	|BGbl |	AGbl |	NAGbl |	CBH	|BG |	AG |	NAG |	MUB 0.31	|MUB 0.31	|Hombl	|Buf
