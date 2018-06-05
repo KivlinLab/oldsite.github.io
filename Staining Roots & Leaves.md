@@ -43,7 +43,12 @@ d. Non-mycorrhizal fungal structures (septate hyphae, usually brown)
 
 ## Calculations
 %RLChyphae = # of intersections with hyphae/ total number of intersections counted
-%RLCseptate = # of intersections with saprophytic hyphae/ total number of intersections counted %RLCarbuscules = # of intersections with arbuscules / total number of intersections counted %RLCvesicles = # of intersections with vesicles / total number of intersections counted
+
+%RLCseptate = # of intersections with saprophytic hyphae/ total number of intersections counted
+
+%RLCarbuscules = # of intersections with arbuscules / total number of intersections counted 
+
+%RLCvesicles = # of intersections with vesicles / total number of intersections counted
 
 McGonigle TP, Miller MH, Evans DG, Fairchild GL, and Swan JA. 1990. A new method which gives an objective measure of colonization by roots of vesicular-arbuscular mycorrhizal fungi. New Phytologist 115: 495-504.
 
