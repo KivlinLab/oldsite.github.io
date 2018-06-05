@@ -106,15 +106,18 @@ x | x | x | x | x | x | x | x | 0.5 | 0.5 | x | x |
 		
 
 Next, add the substrates to the corresponding wells (see plate 1 on page 2):
-1	2	3	4	5	6	7	8	9	10	11	12
-50	50	50	50	50	50	50	50				
-50	50	50	50	50	50	50	50				
-50	50	50	50	50	50	50	50				
-50	50	50	50	50	50	50	50				
-50	50	50	50	50	50	50	50				
-50	50	50	50	50	50	50	50				
-50	50	50	50	50	50	50	50				
-50	50	50	50	50	50	50	50				
+
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+-- | - | - | - | - | - | - | - | - | -- | -- | -- |
+50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
+50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
+50	|50	|50 	|50 | 50 | 50 | 50 | 50 | x | x |x |x
+50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
+50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
+50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
+50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
+50	|50	|50	|50 | 50 | 50 | 50 | 50 | x | x |x |x
+				
 
 Using the multi-channel pipette with wide-mouth tips (i.e., trimmed with scissors), add the homogenate to all wells receiving homogenate:
  
