@@ -42,19 +42,23 @@ Disturbance Ecology
 
 Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Context-dependent biotic interactions control plant abundance across steep environmental gradients.
 
-**Kivlin, S.N.**, R.A. Bedoya, and C.V. Hawkes. Heterogeneity in arbuscular mycorrhizal fungal communities may contribute to inconsistent plant-soil feedback in Neotropical rainforests.
-
-Sulman, B.N., **J.A.M. Moore**‡, R. Abramoff, C. Averill, **S.N. Kivlin**, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. Multiple models and experiments underscore large uncertainty in soil carbon dynamics.
-
 Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L. Menge, and X. Zhang. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage.
 
 **Kivlin, S.N.**, I. Billick, and J.A Rudgers, Plant-fungal symbiosis in alpine grasslands of the Colorado Rocky Mountains
 
-**Kivlin, S.N.** and J.A. Rudgers. Direct and indirect influences of warming on plant fungal endophytes: a physiological and compositional approach.
+Averill, C., J.M.T. Bhatnagar, M. Dietz, W.D. Pearse, and **S.N. Kivlin** Global imprint of plant mycorrhizal associations on plant nutrient use efficiency traits.
+
+Kazenel, M.R.†, **S.N. Kivlin**, D.L. Taylor, and J.A. Rudgers. Altitudinal gradients do not predict response of plant symbionts to experimental warming.
+
+
 
 ## Published Manuscripts
 
-(21) Lekberg, Y., J.D. Bever, R.A. Bunn, R.M. Calaway, M.M. Hart, **S.N. Kivlin**, J.N. Klironomos, B.G. Larkin, J.L. Maron, K.O. Reinhart, M. Remke, and W.H. van der Putten. 2018. Relative importance of competition and plant soil feedbacks, their context dependency and implications for coexistence. Ecology Letters
+(23) Sulman, B.N., **J.A.M. Moore**‡, R. Abramoff, C. Averill, **S.N. Kivlin**, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. Multiple models and experiments underscore large uncertainty in soil carbon dynamics. Biogeochemistry 141: 109-123.
+
+(22) **Kivlin, S.N.**, R.A. Bedoya, and C.V. Hawkes. Heterogeneity in arbuscular mycorrhizal fungal communities may contribute to inconsistent plant-soil feedback in Neotropical rainforests. Plant and Soil 432: 29-44.
+
+(21) Lekberg, Y., J.D. Bever, R.A. Bunn, R.M. Calaway, M.M. Hart, **S.N. Kivlin**, J.N. Klironomos, B.G. Larkin, J.L. Maron, K.O. Reinhart, M. Remke, and W.H. van der Putten. 2018. Relative importance of competition and plant soil feedbacks, their context dependency and implications for coexistence. Ecology Letters 21: 1268-1281.
 
 (20) Russell, A.E., **S.N. Kivlin** and C.V. Hawkes. 2018. Tropical tree species effects on soil pH and biotic factors and the consequence for macroaggregate dynamics. Forests 9: 184.
 
@@ -101,3 +105,4 @@ Book Chapters
 
 (1) **Kivlin, S.N.**, R. Muscarella, C.V. Hawkes, and K.K. Treseder. 2017. The predictive power of ecological niche models for global arbuscular mycorrhizal fungal biogeography. In L. Tedersoo (Ed.) Biogeography of Mycorrhizal Symbiosis. Springer-Verlag.
 
+(2) **Kivlin, S.N.** and J.A. Rudgers. Direct and indirect influences of warming on plant fungal endophytes: a physiological and compositional approach. In J Mohan (Ed.) 
