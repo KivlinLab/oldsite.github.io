@@ -14,7 +14,7 @@ Climate change and urbanization are increasing the prevalence of wildfires. Howe
 
 # News
 UTK is hosting the Mid-Atlantic States Mycological Conference. To get more information click here:
-<a href="/https://MASMC2019.github.io">MASMC2019</a>
+<a href="/MASMC2019">MASMC2019</a>
 
 # People
 ## Stephanie Kivlin
