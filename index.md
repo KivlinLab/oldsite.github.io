@@ -42,11 +42,7 @@ Disturbance Ecology
 ¥ Undergraduate student, † Graduate student, ‡ Postdoctoral Researcher 
 ## Manuscripts in review
 
-**Kivlin, S.N.**, M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains.
-
 Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Context-dependent biotic interactions control plant abundance across steep environmental gradients.
-
-Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L. Menge, and X. Zhang. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage.
 
 **Kivlin, S.N.**, I. Billick, and J.A Rudgers, Plant-fungal symbiosis in alpine grasslands of the Colorado Rocky Mountains
 
@@ -57,6 +53,10 @@ Kazenel, M.R.†, **S.N. Kivlin**, D.L. Taylor, and J.A. Rudgers. Altitudinal gr
 
 
 ## Published Manuscripts
+
+(25) Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L. Menge, and X. Zhang. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage.
+
+(24) **Kivlin, S.N.**, M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains.
 
 (23) Sulman, B.N., **J.A.M. Moore**‡, R. Abramoff, C. Averill, **S.N. Kivlin**, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. Multiple models and experiments underscore large uncertainty in soil carbon dynamics. Biogeochemistry 141: 109-123.
 
