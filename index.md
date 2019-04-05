@@ -13,6 +13,9 @@ Global change is affecting microbial composition and function, but observing the
 Climate change and urbanization are increasing the prevalence of wildfires. However, little is known about how soil microbial communities and associated ecosystem function will recover from these combined disturbance pressures. Our research takes place in the Smoky Mountains near Knoxville, TN.
 
 # News
+
+Maryrose Weatherton will join the lab as a PhD student in Fall 2019. Maryrose has extensive experience studying plant coexistence in tropical forests with Stefan Schnitzer. We can't wait for her to arrive!
+
 UTK is hosting the Mid-Atlantic States Mycological Conference. To get more information click here:
 <a href="/MASMC2019">MASMC2019</a>
 
@@ -54,13 +57,15 @@ Kazenel, M.R.†, **S.N. Kivlin**, D.L. Taylor, and J.A. Rudgers. Altitudinal gr
 
 ## Published Manuscripts
 
-(25) Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L. Menge, and X. Zhang. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage.
+(26) Kazenel, M.R.†, **S.N. Kivlin**, J.S. Lynn†, DL Taylor, and J.A. Rudgers. 2019. Altitudinal gradients do not predict responses of plant symbionts to experimental warming. Ecology
 
-(24) **Kivlin, S.N.**, M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains.
+(25) Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L. Menge, and X. Zhang. 2019. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage. Global Biogeochemical Cycling
 
-(23) Sulman, B.N., **J.A.M. Moore**‡, R. Abramoff, C. Averill, **S.N. Kivlin**, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. Multiple models and experiments underscore large uncertainty in soil carbon dynamics. Biogeochemistry 141: 109-123.
+(24) **Kivlin, S.N.**, M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. 2019. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains. Microbial Ecology
 
-(22) **Kivlin, S.N.**, R.A. Bedoya, and C.V. Hawkes. Heterogeneity in arbuscular mycorrhizal fungal communities may contribute to inconsistent plant-soil feedback in Neotropical rainforests. Plant and Soil 432: 29-44.
+(23) Sulman, B.N., **J.A.M. Moore**‡, R. Abramoff, C. Averill, **S.N. Kivlin**, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. 2018. Multiple models and experiments underscore large uncertainty in soil carbon dynamics. Biogeochemistry 141: 109-123.
+
+(22) **Kivlin, S.N.**, R.A. Bedoya, and C.V. Hawkes. 2018. Heterogeneity in arbuscular mycorrhizal fungal communities may contribute to inconsistent plant-soil feedback in Neotropical rainforests. Plant and Soil 432: 29-44.
 
 (21) Lekberg, Y., J.D. Bever, R.A. Bunn, R.M. Calaway, M.M. Hart, **S.N. Kivlin**, J.N. Klironomos, B.G. Larkin, J.L. Maron, K.O. Reinhart, M. Remke, and W.H. van der Putten. 2018. Relative importance of competition and plant soil feedbacks, their context dependency and implications for coexistence. Ecology Letters 21: 1268-1281.
 
