@@ -51,9 +51,6 @@ Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Context-depen
 
 Averill, C., J.M.T. Bhatnagar, M. Dietz, W.D. Pearse, and **S.N. Kivlin** Global imprint of plant mycorrhizal associations on plant nutrient use efficiency traits.
 
-Kazenel, M.R.†, **S.N. Kivlin**, D.L. Taylor, and J.A. Rudgers. Altitudinal gradients do not predict response of plant symbionts to experimental warming.
-
-
 
 ## Published Manuscripts
 
