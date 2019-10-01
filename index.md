@@ -27,6 +27,11 @@ UTK is hosting the Mid-Atlantic States Mycological Conference. To get more infor
 
 Microbial and Ecosystem Ecology
 
+## Ruth Simberloff
+### Laboratory Technician
+
+
+
 ## Jessica Moore
 ### Postdoctoral Researcher
 
@@ -35,17 +40,17 @@ Microbial and Ecosystem Ecology
 
 Microbial and Ecosystem Ecology
 
-## Leigh Moorhead
-### Postdoctoral Researcher
+## Maryrose Weatherton
+### Graduate Student
 
-Disturbance Ecology
+Invasion ecology
 
 
 # Publications
 ¥ Undergraduate student, † Graduate student, ‡ Postdoctoral Researcher 
 ## Manuscripts in review
 
-Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Context-dependent biotic interactions control plant abundance across steep environmental gradients.
+
 
 **Kivlin, S.N.**, I. Billick, and J.A Rudgers, Plant-fungal symbiosis in alpine grasslands of the Colorado Rocky Mountains
 
@@ -53,6 +58,8 @@ Averill, C., J.M.T. Bhatnagar, M. Dietz, W.D. Pearse, and **S.N. Kivlin** Global
 
 
 ## Published Manuscripts
+
+(27) Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Context-dependent biotic interactions control plant abundance across steep environmental gradients.
 
 (26) Kazenel, M.R.†, **S.N. Kivlin**, J.S. Lynn†, DL Taylor, and J.A. Rudgers. 2019. Altitudinal gradients do not predict responses of plant symbionts to experimental warming. Ecology
 
