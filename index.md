@@ -34,9 +34,9 @@ Microbial and Ecosystem Ecology
 # Publications
 ¥ Undergraduate student, † Graduate student, ‡ Postdoctoral Researcher 
 
-(30) Tipton, L.‡, G. Zahn‡, E. Datlof†, S.N. Kivlin, P. Sheridan, A.S. Amend, and N.A. Hynson. In press. Fungal aerobiota communities are unaffected by environmental conditions over a thirteen-year time series from Mauna Loa Observatory. Proceedings of the National Academy of Sciences
+(30) Tipton, L.‡, G. Zahn‡, E. Datlof†, **S.N. Kivlin**, P. Sheridan, A.S. Amend, and N.A. Hynson. In press. Fungal aerobiota communities are unaffected by environmental conditions over a thirteen-year time series from Mauna Loa Observatory. Proceedings of the National Academy of Sciences
 
-(29) Kivlin, S.N., S. Fei, S. Kalisz, and C. Averill. In Press. Microbial Ecology meets Macroecology: Developing a process-based understanding of microbial role in global ecosystems. Bulletin of the Ecological Society of America. 
+(29) **Kivlin, S.N.**, S. Fei, S. Kalisz, and C. Averill. In Press. Microbial Ecology meets Macroecology: Developing a process-based understanding of microbial role in global ecosystems. Bulletin of the Ecological Society of America. 
 
 (28) Averill, C., J.M.T. Bhatnagar, M. Dietz, W.D. Pearse, and **S.N. Kivlin** Global imprint of plant mycorrhizal associations on plant nutrient use efficiency traits. Proceedings of the National Academy of Sciences
 
