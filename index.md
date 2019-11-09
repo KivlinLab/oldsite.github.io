@@ -31,41 +31,22 @@ Microbial and Ecosystem Ecology
 ### Laboratory Technician
 
 
-
-## Jessica Moore
-### Postdoctoral Researcher
-
-<img src = "https://pbs.twimg.com/profile_images/791986472920485889/oTlqnS0a_400x400.jpg">
-
-
-Microbial and Ecosystem Ecology
-
-## Maryrose Weatherton
-### Graduate Student
-
-Invasion ecology
-
-
 # Publications
 ¥ Undergraduate student, † Graduate student, ‡ Postdoctoral Researcher 
-## Manuscripts in review
 
+(30) Tipton, L.‡, G. Zahn‡, E. Datlof†, S.N. Kivlin, P. Sheridan, A.S. Amend, and N.A. Hynson. In press. Fungal aerobiota communities are unaffected by environmental conditions over a thirteen-year time series from Mauna Loa Observatory. Proceedings of the National Academy of Sciences
 
+(29) Kivlin, S.N., S. Fei, S. Kalisz, and C. Averill. In Press. Microbial Ecology meets Macroecology: Developing a process-based understanding of microbial role in global ecosystems. Bulletin of the Ecological Society of America. 
 
-**Kivlin, S.N.**, I. Billick, and J.A Rudgers, Plant-fungal symbiosis in alpine grasslands of the Colorado Rocky Mountains
+(28) Averill, C., J.M.T. Bhatnagar, M. Dietz, W.D. Pearse, and **S.N. Kivlin** Global imprint of plant mycorrhizal associations on plant nutrient use efficiency traits. Proceedings of the National Academy of Sciences
 
-Averill, C., J.M.T. Bhatnagar, M. Dietz, W.D. Pearse, and **S.N. Kivlin** Global imprint of plant mycorrhizal associations on plant nutrient use efficiency traits.
+(27) Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. 2019 Context-dependent biotic interactions control plant abundance across steep environmental gradients. Ecography 42:1600-1612
 
+(26) Kazenel, M.R.†, **S.N. Kivlin**, J.S. Lynn†, DL Taylor, and J.A. Rudgers. 2019. Altitudinal gradients do not predict responses of plant symbionts to experimental warming. Ecology 100:e02740
 
-## Published Manuscripts
+(25) Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L. Menge, and X. Zhang. 2019. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage. Global Biogeochemical Cycling 33:501-523
 
-(27) Lynn, J.S.†, M.R. Kazenel†, **S.N. Kivlin**, and J.A. Rudgers. Context-dependent biotic interactions control plant abundance across steep environmental gradients.
-
-(26) Kazenel, M.R.†, **S.N. Kivlin**, J.S. Lynn†, DL Taylor, and J.A. Rudgers. 2019. Altitudinal gradients do not predict responses of plant symbionts to experimental warming. Ecology
-
-(25) Sulman, B.N., E. Shevliakova, E.R. Brzostek, **S.N. Kivlin**, S. Malyshev, D.N.L. Menge, and X. Zhang. 2019. Diversity in nitrogen acquisition strategies enables enhanced terrestrial carbon storage. Global Biogeochemical Cycling
-
-(24) **Kivlin, S.N.**, M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. 2019. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains. Microbial Ecology
+(24) **Kivlin, S.N.**, M.R. Kazenel†, J.S. Lynn†, D.L. Taylor, and J.A. Rudgers. 2019. Plant identity influences foliar endophytes more than elevation in the Colorado Rocky Mountains. Microbial Ecology 78:688-698
 
 (23) Sulman, B.N., **J.A.M. Moore**‡, R. Abramoff, C. Averill, **S.N. Kivlin**, K. Georgiou, B. Sridhar, M. Hartman, G. Wang, W.R. Wieder, M.A. Bradford, Y. Luo, M. Mayes, E. Morrison, W.J. Riley, A. Salazar, J.P. Schimel, J. Tang, and A.T. Classen. 2018. Multiple models and experiments underscore large uncertainty in soil carbon dynamics. Biogeochemistry 141: 109-123.
 
