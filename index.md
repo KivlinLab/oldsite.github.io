@@ -12,12 +12,6 @@ Global change is affecting microbial composition and function, but observing the
 ### Fire at the Wildland-Urban Interface
 Climate change and urbanization are increasing the prevalence of wildfires. However, little is known about how soil microbial communities and associated ecosystem function will recover from these combined disturbance pressures. Our research takes place in the Smoky Mountains near Knoxville, TN.
 
-# News
-
-Maryrose Weatherton will join the lab as a PhD student in Fall 2019. Maryrose has extensive experience studying plant coexistence in tropical forests with Stefan Schnitzer. We can't wait for her to arrive!
-
-UTK is hosting the Mid-Atlantic States Mycological Conference. To get more information click here:
-<a href="/MASMC2019">MASMC2019</a>
 
 # People
 ## Stephanie Kivlin
